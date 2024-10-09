@@ -14,7 +14,7 @@ This repository offers a comprehensive comparison of three prominent Flux variat
 
 * **📁 flux_1.0_dev:** Jupyter notebook housing the code for flux_1.0_dev.
 * **📁 flux_1.0_schnell:** Jupyter notebook containing the code for flux_1.0_schnell.
-* **📁 flux_1.1_pro:** Likely contains results obtained from Hugging Face using the "Together ai" API (details not currently provided).
+* **📁 flux_1.1_pro:** python script containing the code for flux_1.1_pro .
 * **📁 flux_result:** A treasure trove of generated images for all three Flux versions.
 
 ### **Conclusion**
